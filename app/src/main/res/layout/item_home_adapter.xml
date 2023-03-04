@@ -64,7 +64,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/margin25"
-                    android:layout_marginEnd="@dimen/margin20"
+                    android:layout_marginStart="@dimen/margin20"
                     android:text="yang masuk hari ini?"
                     android:textColor="@color/color_tv_gray_tv_desc_item_home"
                     android:textSize="@dimen/text_small_default"
