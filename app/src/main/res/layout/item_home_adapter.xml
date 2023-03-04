@@ -35,7 +35,7 @@
 
                 <TextView
                     android:id="@+id/tvTitle"
-                    android:fontFamily="fonts/open_sans_extra_bold.ttf"
+                    android:fontFamily="fonts/open_sans_extra_bold"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="@dimen/margin20"
@@ -48,7 +48,7 @@
 
                 <TextView
                     android:id="@+id/tvDesc1"
-                    android:fontFamily="fonts/open_sans_semibold.ttf"
+                    android:fontFamily="@font/open_sans_semibold"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="@dimen/margin20"
@@ -60,7 +60,7 @@
 
                 <TextView
                     android:id="@+id/tvDesc2"
-                    android:fontFamily="fonts/open_sans_semibold.ttf"
+                    android:fontFamily="@font/open_sans_semibold"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/margin25"
